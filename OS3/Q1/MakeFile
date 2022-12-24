@@ -1,0 +1,2 @@
+final:
+	gcc part_A/NoSem/main2.c -o main
